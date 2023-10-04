@@ -1,0 +1,161 @@
+.page{
+    justify-content: center;
+}
+.pixfort_normal_1{
+   display: flex;
+  
+}
+.header_style{
+    display: flex;
+}
+.sixteen-columns{
+    display: flex;
+    min-height: 60px;
+}
+.one-third{
+    margin-left: 150px;
+}
+.two-thirds{
+
+    display: flex;
+    margin-left: 850px;
+   float: left; 
+   
+}
+.htext_style{
+    margin-top: 15px;
+    padding-right: 10px;
+    font-family: serif;
+
+}
+.slow_fade{
+    margin-top: 8px;
+    margin-right: 5px;
+}
+/* content main  */
+.big_padding{
+background-color: rgb(51, 51, 51);
+display: flex;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+/* .bold_text{
+    color: #2DC0E8;
+    font-weight: 900;
+    font-size: 3ch;
+    font-family: monospace;
+} */
+
+.big_title{
+   margin: 0;
+    font-weight: 900;
+    font-size: 6ch;
+    font-family: monospace;
+    color: aliceblue;
+}
+.sixteen_columns{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 250px;
+}
+.normal_text{
+    color: aliceblue;
+}
+.eight-columns-alpha{
+    margin: 30px 0px;
+}
+.eight-columns-omega{
+    margin: 30px 5px 25px;
+}
+
+.button1{
+    background-color: #2DC0E8;
+    display: flex;
+   
+}
+.fa-regular{
+    padding-top: 15px;
+}
+.envato_unbounce{
+    background-color: #EEEEEE;
+    justify-content: center;
+    border-style: groove;
+    width: 100%;
+}
+.container_3{
+    justify-content: center;
+}
+.L1_style{
+    justify-content: center;
+    text-align: center;
+}
+.L2_style{
+    justify-content: center;
+    text-align: center;
+}
+.two_col{
+    display: flex;
+    margin: 0 250px;
+}
+.eight_columns_3_left{
+    display: dlex;
+    margin-bottom: 30px;
+}
+.box_1{
+    display: flex;
+    margin: 5px;
+}
+.txt_editContent{
+    margin: 0;
+    padding: 5px;
+}
+.eight_columns_3_right{
+    display: flex;
+    margin-bottom: 30px;
+}
+.box_2{
+    display: flex;
+    margin: 5px;
+}
+.txt_style{
+    border: 1 solid ;
+    background-color: white;
+}
+#link_1{
+    color: #2DC0E8;
+}
+#link_2{
+    color: #2DC0E8;
+}.container_footer{
+    justify-content: center;
+    text-align: center;
+}
+.f1_style{
+    color: rgb(134, 197, 71);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-size: 30px;
+    margin: 25px 0;
+}
+.f2_style{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding: 0 100px;
+    margin-bottom: 50px;
+}
+.get_2_btn{
+    border: 3px solid rgb(134, 197, 71);
+   
+    padding: 20px;
+    margin-bottom: 10px;
+   
+}
+.rights_st{
+    margin-top: 50px;
+    
+}
+.slow_fade_3{
+    color: rgb(134, 197, 71);
+}
