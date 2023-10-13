@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lab 3.2</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<form id="app">
+  <header id="header">
+    <h1 class="header_title">Contact Us</h1>
+  </header>
+  <div id="container">
+    <div class="mg-60 container__grid container__fullname">
+      <label for="fullname" >FULL NAME *</label>
+      <input type="text" placeholder="Enter Your Name">
+    </div>
+    <div class="mg-60 container__flex">
+      <div class="container__grid container__email">
+        <label for="email" >EMAIL *</label>
+        <input type="text" placeholder="Enter Your Email">
+      </div>
+      <div class="container__grid container__phone">
+        <label for="phone">PHONE *</label>
+        <input type="number" placeholder="Enter Number Phone">
+      </div>
+    </div>
+    <div class="mg-60 container__grid container__needed">
+      <label for="needed">NEEDED SERVICE *</label>
+      <div class="container__wrapper">
+        <input type="text" placeholder="Please chooses">
+        <div class="container__wrapper--icon">
+          <i class="fa-solid fa-chevron-up arrow-icon"></i>
+          <i class="fa-solid fa-chevron-down arrow-icon"></i>
+        </div>
+      </div>
+
+    </div>
+    <div class="mg-60 container__grid container__message">
+      <label for="message" >MESSAGE</label>
+      <textarea name="message" cols="40" rows="8" placeholder="Your message here...">
+      </textarea>
+    </div>
+  </div>
+  <footer id="footer" class="mg-60">
+    <input type="submit" value="Submit">
+    <i class="fa-solid fa-arrow-right"></i>
+  </footer>
+</form>
+</body>
+</html>
