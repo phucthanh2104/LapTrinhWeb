@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.color-button{
+    padding: 10px 20px;
+    font-size: 14px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+}
+
