@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf3724f-ca6b-4a4c-8c63-168f6969fc2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/demo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/src/main/java/servlet/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo2/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/Flat-UI-Icons.dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/Flat-UI-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/Flat-UI-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/Flat-UI-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/Flat-UI-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/flatpack.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/flatpack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/flatpack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/fonts/flatpack.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/1_normal/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/1_normal/stars.original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/main/software-img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/social_icons/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/social_icons/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/social_icons/yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/testimonials/envato-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/images/testimonials/unboune-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/stylesheets/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/stylesheets/img/X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/stylesheets/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/assets/stylesheets/img/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page a/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/Flat-UI-Icons.dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/Flat-UI-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/Flat-UI-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/Flat-UI-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/Flat-UI-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/flatpack.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/flatpack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/flatpack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/fonts/flatpack.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/13_gym/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/13_gym/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/13_gym/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/main/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/main/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/main/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/main/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/social_icons/facebook (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/social_icons/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/social_icons/twitter (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/images/social_icons/yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/stylesheets/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/stylesheets/img/X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/stylesheets/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/assets/stylesheets/img/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/page b/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/extra/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/extra/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/lab4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WIA9i1njt1IgWPpTK3joRLSqX7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/LTW",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LTW/lab4/4.4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/lab4/4.2/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf3724f-ca6b-4a4c-8c63-168f6969fc2d" name="Changes" comment="" />
+      <created>1696409572884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696409572884</updated>
+      <workItem from="1696409574996" duration="1199000" />
+      <workItem from="1696490954360" duration="12495000" />
+      <workItem from="1696777218667" duration="2988000" />
+      <workItem from="1696827990793" duration="40730000" />
+      <workItem from="1697115244499" duration="62000" />
+      <workItem from="1697115316951" duration="599000" />
+      <workItem from="1697116166402" duration="31000" />
+      <workItem from="1697116505490" duration="157000" />
+      <workItem from="1697116765039" duration="114000" />
+      <workItem from="1697116892752" duration="3643000" />
+      <workItem from="1697165543483" duration="132000" />
+      <workItem from="1697204309652" duration="140000" />
+      <workItem from="1697204741548" duration="1610000" />
+      <workItem from="1697255499387" duration="3805000" />
+      <workItem from="1697284862806" duration="12916000" />
+      <workItem from="1697347395947" duration="34000" />
+      <workItem from="1697348559519" duration="72000" />
+      <workItem from="1697990944486" duration="778000" />
+      <workItem from="1698246846967" duration="2092000" />
+      <workItem from="1698469625574" duration="160000" />
+      <workItem from="1698931718709" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Giải Phương Trình Bậc Hai</title>
+</head>
+<body>
+    <h3>Biểu thức có dạng : aX <sup>2</sup> +bX + c = 0</h3>
+
+    a:  <input type="text" id="a"> <br>
+    b:  <input type="text" id="b"> <br>
+    c:  <input type="text" id="c"> <br>
+   <button class="calculate" onclick="calculate()">Calculate</button>
+    <hr>
+kết quá : <p id="result"></p>
+
+    <script>
+        function calculate(){
+            var a = document.getElementById("a").value;
+            var b = document.getElementById("b").value;
+            var c = document.getElementById("c").value;
+            var  delta = Math.pow(b,2) - 4 * a * c;
+
+            if(isNaN(a) || isNaN(b) || isNaN(c) ) {
+                alert("Hãy nhập lại tham số a,b,c.");
+            }else if(a == 0){
+                alert("Hãy nhập số a khác 0");
+            }else {
+
+                if (delta < 0) {
+                    document.getElementById("result").innerHTML = "Phương trình vô nghiệm";
+                } else if (delta === 0) {
+                    var x1 = -b / (2 * a);
+                    console.log(x1);
+                    document.getElementById("result").innerHTML = "Phương trình có nghiệm kép x = " + x1;
+                } else if (delta > 0) {
+                    var x1 = (-b + Math.sqrt(delta)) / (2 * a);
+                    var x2 = (-b - Math.sqrt(delta)) / (2 * a);
+                    document.getElementById("result").innerHTML = "Nghiệm x1 = " + x1 + ", Nghiệm x2 = " + x2;
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>

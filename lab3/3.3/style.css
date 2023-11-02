@@ -1,0 +1,75 @@
+body{
+  /*height: 100vh;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image:
+          url("https://cf.shopee.vn/file/4a4f94fdc4b456945171530db9b50cfa");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#main{
+  maxwidth: 400px;
+  min-height: 600px;
+  background-color: white;
+  justify-content: center;
+  justify-items: center;
+  align-self: center;
+  margin: 80px 0;
+  border-radius: 10px;
+}
+.header{
+  text-align: center;
+  /*padding-top: 0px;*/
+  margin: 100px 0px 70px;
+  color: #8E4794;
+}
+#main .info input{
+  flex: 1;
+  border-radius: 10px;
+  margin: 0 180px;
+  padding: 20px 150px 20px 10px;
+  border: none;
+  box-shadow: 6px 10px 10px 6px rgba(90,90,90, 0.1);
+}
+#main .info .username{
+  margin-bottom: 20px;
+
+
+}
+#button{
+  position: relative;
+  font-weight: bold;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translate(280px, 10px);
+  margin: 50px 0;
+  padding: 20px 40px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  background-color: #BD59D7;
+  color: white;
+}
+.suggest{
+  text-align: center;
+}
+.icon{
+  /*top: 50%;*/
+  /*left: 50%;*/
+  transform: translate(310px, 10px);
+  /*border-radius: 30px;*/
+  /*box-shadow: 1px 2px 4px 4px rgba(81, 81, 81, 0.1);*/
+  padding: 8px 10px;
+  border-radius: 50%;
+
+}
+footer{
+  text-align: center;
+  margin-top: 60px;
+}

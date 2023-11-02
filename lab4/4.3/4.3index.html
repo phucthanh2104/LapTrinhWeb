@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="greeting"></div>
+    <script>
+        // danh sách lời chào ngẫu nhiên
+        var greetings = [
+            "Chào bạn!",
+            "Xin chào!",
+            "Chào mừng bạn đến với trang web!",
+            "Hello!",
+            "Cảm ơn bạn đã ghé thăm trang web",
+            "Welcome brooooo",
+        ];
+        // hàm random 1 lời chào ngẫu nhiên lấy từ danh sách greeting trên
+        function getRandomGreeting(){
+            var ramdom = Math.floor(Math.random() * greetings.length);
+            return greetings[ramdom];
+        }
+        //hiển thị lời chào ngẫu nhiên
+        window.onload = function (){
+            var display = document.getElementById("greeting");
+            display.textContent = getRandomGreeting();
+        }
+    </script>
+
+</body>
+</html>
